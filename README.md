@@ -6,9 +6,9 @@ This project showcases a beautiful UI design for a flowers application using the
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/muqtadanajm/Bloomina/Screenshots/Screenshot_1.png" width="33%"/>
-  <img src="https://github.com/muqtadanajm/Bloomina/Screenshots/Screenshot_1.png" width="33%"/>
-  <img src="https://github.com/muqtadanajm/Bloomina/Screenshots/Screenshot_1.png" width="33%"/>
+  <img src="https://github.com/muqtadanajm/Bloomina/blob/main/Screenshots/Screenshot_1.png" width="33%"/>
+  <img src="https://github.com/muqtadanajm/Bloomina/blob/main/Screenshots/Screenshot_2.png" width="33%"/>
+  <img src="https://github.com/muqtadanajm/Bloomina/blob/main/Screenshots/Screenshot_3.png" width="33%"/>
 </p>
 
 
