@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763875740202",
+    "firebase_url": "https://jopfinderapp-default-rtdb.firebaseio.com",
+    "project_id": "jopfinderapp",
+    "storage_bucket": "jopfinderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763875740202:android:aa16cbcf1db5720ac01153",
+        "android_client_info": {
+          "package_name": "com.project.linkedin_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763875740202-na2i5ahbu4q3imsf3apgjlkfojl3ias6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lUZsVEsyvrEaLwHKnsxYUHMEy81wkdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763875740202-na2i5ahbu4q3imsf3apgjlkfojl3ias6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763875740202-9tp39inm4s0vlnt459u8kfhv67detivt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jobsearchiraq.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
